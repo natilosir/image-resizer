@@ -3,7 +3,7 @@
 Plugin Name: WP Image Resizer & Optimizer
 Description: Resize and optimize uploaded images automatically and manually
 Version: 1.1
-Author: Your Name
+Author: natilos.ir
 */
 
 class WP_Image_Resizer_Optimizer {
